@@ -14,6 +14,7 @@
 
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
 <h1><strong> My Status</strong></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=R4tw1z&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=R4Tw1z&theme=gotham" />
@@ -102,6 +103,12 @@
         <img src="img/ghidra.svg" width="48" height="48"  />
       </a>
       <br>Ghidra
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.openwall.com/john/" target="_blank" rel="noopener noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWJDGaaaPKKzzNZaX_yaz4g9sVqH5d_vk5w&s" width="48" height="48"  />
+      </a>
+      <br>John
     </td>
         <td align="center" width="96">
       <a href="https://portswigger.net/" target="_blank" rel="noopener noreferrer">
