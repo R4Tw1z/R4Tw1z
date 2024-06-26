@@ -97,7 +97,6 @@
   </a>
   <br>Docker
     </td>
-    
         <td align="center" width="96">
       <a href="https://ghidra-sre.org/" target="_blank" rel="noopener noreferrer">
         <img src="img/ghidra.svg" width="48" height="48"  />
