@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/R4Tw1z/R4Tw1z/blob/main/img/IMG_20240626_094123.jpg)
+![MasterHead](img/IMG_20240626_094123.jpg)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=R4Tw1z booting up! +%F0%9F%91%8B+;Hi+Iam+Pritam++%3A)..; Pleasure+to+meet+everyone!+%F0%9F%98%87..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=R4Tw1z%2booting%2up! +%F0%9F%91%8B+;Hi+Iam+Pritam++%3A)..; Pleasure+to+meet+everyone!+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
 
